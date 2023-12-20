@@ -1,4 +1,4 @@
-![GNOD image](C:\Users\susy_\Desktop\github_cover\blocks-T3mKJXfdims-unsplash.jpg)
+![GNOD image](C:/Users/susy_/Desktop/github_cover/blocks-T3mKJXfdims-unsplash.jpg)
 
 # GNOD Song Recommender Project
 
